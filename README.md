@@ -6,7 +6,7 @@ The New York Time Scraper (NYT Scraper for short) is a scraper app which capture
 
 In this repository, you can see source code of NYT Scraper. For experiencing, please go to Heroku:
 
-https://nyt-scraper-2019.herokuapp.com/
+https://quiet-wave-40989.herokuapp.com/
 
 ### Key Dependencies
 
